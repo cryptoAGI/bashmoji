@@ -171,16 +171,126 @@ PACKAGE="📦"      # Package
 MODULE="🧩"       # Module
 
 # Cryptocurrency & Blockchain
-CRYPTO="₿"        # Bitcoin
-ETHEREUM="⟠"      # Ethereum
-MONEY="💰"        # Finance
-CHART="📈"        # Trading
-BANK="🏦"         # Banking
-COIN="🪙"         # Currency
-CASH="💵"         # Money
-CREDIT="💳"       # Payment
-PROFIT="💹"       # Gain
-LOSS="📉"         # Loss
+# Major Cryptocurrencies
+BITCOIN="₿"           # Bitcoin/BTC
+ETHEREUM="⟠"          # Ethereum/ETH
+BINANCE="Ƀ"           # BNB Chain
+CARDANO="₳"           # Cardano/ADA
+RIPPLE="✕"           # XRP
+SOLANA="◎"           # Solana/SOL
+POLKADOT="●"         # Polkadot/DOT
+DOGECOIN="Ð"         # Dogecoin/DOGE
+LITECOIN="Ł"         # Litecoin/LTC
+MONERO="ɱ"           # Monero/XMR
+TETHER="₮"           # Tether/USDT
+USDC="$"             # USD Coin
+CHAINLINK="⬡"        # Chainlink/LINK
+POLYGON="⬢"          # Polygon/MATIC
+AVALANCHE="△"        # Avalanche/AVAX
+COSMOS="⚛"           # Cosmos/ATOM
+TRON="♉"             # Tron/TRX
+STELLAR="✧"          # Stellar/XLM
+NEO="Ν"              # NEO
+IOTA="ι"             # IOTA
+
+# Blockchain Infrastructure
+OPENBDK="🔓"         # OpenBDK (Open Blockchain Development Kit)
+BLOCKCHAIN="🔗"      # Blockchain Technology
+NODE="📡"            # Network Node
+VALIDATOR="✓"        # Validator Node
+MINER="⛏️"           # Mining Node
+ARCHIVE="📚"         # Archive Node
+LIGHTNING="⚡"        # Lightning Network
+SIDECHAIN="↔️"       # Sidechain
+BRIDGE="🌉"          # Cross-chain Bridge
+ORACLE="👁️"          # Oracle
+CONSENSUS="🤝"       # Consensus Mechanism
+HASH="#️⃣"           # Hash Function
+MERKLE="🌳"          # Merkle Tree
+SHARDING="🧩"        # Sharding
+
+# DeFi Components
+DEFI="🏦"            # Decentralized Finance
+DEX="💱"             # Decentralized Exchange
+YIELD="🌾"           # Yield Farming
+STAKE="🥩"           # Staking
+LIQUIDITY="💧"       # Liquidity Pool
+SWAP="🔄"            # Token Swap
+AMM="⚖️"             # Automated Market Maker
+LENDING="💸"         # Lending Protocol
+BORROW="🏷️"          # Borrowing
+COLLATERAL="🔒"      # Collateral
+LEVERAGE="📊"        # Leverage Trading
+
+# Smart Contracts & dApps
+CONTRACT="📜"        # Smart Contract
+DAPP="📱"            # Decentralized Application
+DAO="👥"             # Decentralized Autonomous Organization
+NFT="🎨"             # Non-Fungible Token
+TOKEN="🪙"           # Token
+WALLET="👛"          # Cryptocurrency Wallet
+GAS="⛽"             # Gas Fee
+SIGNATURE="✍️"       # Digital Signature
+VERIFY="✅"          # Verification
+
+# Trading & Finance
+CHART_UP="📈"        # Uptrend
+CHART_DOWN="📉"      # Downtrend
+VOLUME="📊"          # Trading Volume
+ORDER_BOOK="📖"      # Order Book
+MARKET_CAP="💰"      # Market Capitalization
+CIRCULATING="🔄"     # Circulating Supply
+TOTAL_SUPPLY="∑"     # Total Supply
+MAX_SUPPLY="∞"       # Maximum Supply
+BURN="🔥"            # Token Burn
+MINT="🌱"            # Token Minting
+
+# Security & Privacy
+COLD_STORAGE="❄️"    # Cold Storage
+HOT_WALLET="🔥"      # Hot Wallet
+SEED="🌱"            # Seed Phrase
+PRIVATE_KEY="🔑"     # Private Key
+PUBLIC_KEY="🔐"      # Public Key
+ENCRYPT="🔒"         # Encryption
+DECRYPT="🔓"         # Decryption
+PRIVACY="🕶️"         # Privacy Features
+AUDIT="🔍"           # Security Audit
+BACKUP="💾"          # Backup
+
+# Market Indicators
+BULL="🐂"            # Bullish
+BEAR="🐻"            # Bearish
+WHALE="🐋"           # Large Holder
+DOLPHIN="🐬"         # Medium Holder
+FISH="🐟"            # Small Holder
+MOON="🌕"            # Price Increase
+DIP="📉"             # Price Decrease
+ATH="🏔️"            # All-Time High
+ATL="🕳️"            # All-Time Low
+FOMO="😱"            # Fear of Missing Out
+FUD="😨"             # Fear, Uncertainty, Doubt
+
+# Layer Solutions
+LAYER1="1️⃣"         # Layer 1 Blockchain
+LAYER2="2️⃣"         # Layer 2 Solution
+ROLLUP="📦"          # Rollup Solution
+PLASMA="⚡"          # Plasma Chain
+STATE_CHANNEL="↔️"   # State Channel
+MAINNET="🌐"         # Main Network
+TESTNET="🧪"         # Test Network
+DEVNET="🛠️"          # Development Network
+
+# Governance & Community
+GOVERNANCE="⚖️"      # Governance
+PROPOSAL="📋"        # Proposal
+VOTE="🗳️"           # Voting
+COMMUNITY="👥"       # Community
+DEVELOPER="👨‍💻"      # Developer
+WHITEPAPER="📄"      # Whitepaper
+ROADMAP="🗺️"         # Development Roadmap
+MILESTONE="🏁"       # Project Milestone
+UPDATE="🔄"          # Protocol Update
+FORK="🔱"            # Blockchain Fork
 
 # Time & Progress
 CLOCK="⏰"        # Time
