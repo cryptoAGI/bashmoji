@@ -422,3 +422,100 @@ TENSOR="⚡"       # Tensors/Compute
 TRAIN="🚂"        # Training
 MODEL="🤖"        # Models
 DATA="📊"         # Data
+
+--------------
+
+fix this
+
+# Market Movements & Colors
+GREEN='\033[0;32m'   # For gains, up trends
+RED='\033[0;31m'     # For losses, down trends
+
+# Trading & Finance Indicators
+CHART_UP="📈"        # Uptrend (${GREEN}Moving up and right ↗${NC})
+CHART_DOWN="📉"      # Downtrend (${RED}Moving down and left ↙${NC})
+
+# Market Movements
+BULLISH="📈"         # Bull Market (${GREEN}Upward trend ↗${NC})
+BEARISH="📉"         # Bear Market (${RED}Downward trend ↙${NC})
+PUMP="📈"            # Price Pump (${GREEN}Sharp rise ↗${NC})
+DIP="📉"             # Price Drop (${RED}Sharp fall ↙${NC})
+PROFIT="📈"          # Gains (${GREEN}Positive return ↗${NC})
+LOSS="📉"            # Losses (${RED}Negative return ↙${NC})
+
+# Market States
+BULL="🟢"            # Bullish (${GREEN}Green Market${NC})
+BEAR="🔴"            # Bearish (${RED}Red Market${NC})
+LONG="📈"            # Long Position (${GREEN}Betting on rise ↗${NC})
+SHORT="📉"           # Short Position (${RED}Betting on fall ↙${NC})
+
+# Price Levels
+ATH="📈"             # All-Time High (${GREEN}Peak price ↗${NC})
+ATL="📉"             # All-Time Low (${RED}Bottom price ↙${NC})
+
+# Market Analysis
+SUPPORT="🟢"         # Support Level (${GREEN}Buy zone${NC})
+RESISTANCE="🔴"      # Resistance Level (${RED}Sell zone${NC})
+
+# Trading Signals
+BUY="🟢"             # Buy Signal (${GREEN}Entry point${NC})
+SELL="🔴"            # Sell Signal (${RED}Exit point${NC})
+
+# Volume Indicators
+VOL_UP="📈"          # Volume Increase (${GREEN}Rising volume ↗${NC})
+VOL_DOWN="📉"        # Volume Decrease (${RED}Falling volume ↙${NC})
+
+# Momentum
+MOMENTUM_UP="📈"     # Upward Momentum (${GREEN}Gaining strength ↗${NC})
+MOMENTUM_DOWN="📉"   # Downward Momentum (${RED}Losing strength ↙${NC})
+
+# Market Sentiment
+OPTIMISTIC="🟢"      # Optimistic (${GREEN}Positive outlook${NC})
+PESSIMISTIC="🔴"     # Pessimistic (${RED}Negative outlook${NC})
+
+# Trading Performance
+PROFIT_DAY="📈"      # Profitable Day (${GREEN}Positive returns ↗${NC})
+LOSS_DAY="📉"        # Loss Day (${RED}Negative returns ↙${NC})
+
+# Portfolio Status
+PORTFOLIO_UP="📈"    # Portfolio Gain (${GREEN}Increasing value ↗${NC})
+PORTFOLIO_DOWN="📉"  # Portfolio Loss (${RED}Decreasing value ↙${NC})
+
+# Risk Indicators
+LOW_RISK="🟢"        # Low Risk (${GREEN}Safe zone${NC})
+HIGH_RISK="🔴"       # High Risk (${RED}Danger zone${NC})
+
+# Market Cycles
+ACCUMULATION="🟢"    # Accumulation (${GREEN}Building position${NC})
+DISTRIBUTION="🔴"    # Distribution (${RED}Reducing position${NC})
+
+# Trading Positions
+POSITION_GAIN="📈"   # Position Profit (${GREEN}Winning trade ↗${NC})
+POSITION_LOSS="📉"   # Position Loss (${RED}Losing trade ↙${NC})
+
+# Market Depth
+BUYING_PRESSURE="🟢" # Buying Pressure (${GREEN}More buyers${NC})
+SELLING_PRESSURE="🔴" # Selling Pressure (${RED}More sellers${NC})
+
+# Order Types
+LIMIT_BUY="🟢"       # Limit Buy (${GREEN}Buy order${NC})
+LIMIT_SELL="🔴"      # Limit Sell (${RED}Sell order${NC})
+
+# Trading Activity
+ACTIVE_BUYING="📈"   # Active Buying (${GREEN}Strong demand ↗${NC})
+ACTIVE_SELLING="📉"  # Active Selling (${RED}Strong supply ↙${NC})
+
+# Market Status
+MARKET_HEALTH="🟢"   # Healthy Market (${GREEN}Stable growth${NC})
+MARKET_STRESS="🔴"   # Stressed Market (${RED}Unstable decline${NC})
+
+
+# Market Indicators & Trading
+PROFIT="📈"          # Gains (Green, moving up and right ↗)
+LOSS="📉"            # Losses (Red, moving down and left ↙)
+PUMP="📈"            # Price Pump (Green, moving up and right ↗)
+DIP="📉"             # Price Drop (Red, moving down and left ↙)
+LONG="📈"            # Long Position (Green, moving up and right ↗)
+SHORT="📉"           # Short Position (Red, moving down and left ↙)
+BULLISH="📈"         # Bull Market (Green, moving up and right ↗)
+BEARISH="📉"         # Bear Market (Red, moving down and left ↙)
